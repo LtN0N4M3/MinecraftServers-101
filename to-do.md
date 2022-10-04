@@ -52,12 +52,12 @@ Total: **16 weeks**
 
 ## Progress tracker:
 
-| [X] | Task |
-|:---:|:----|
-| [ ] | Index |
-| [ ] | Cover |
-| [ ] | Title |
-| [ ] | Preface |
+Task 
+
+- [ ]  Index 
+- [ ]  Cover 
+- [ ]  Title 
+- [ ]  Preface 
 
 
 Tasks left: N/A  
