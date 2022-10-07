@@ -69,5 +69,7 @@ Tasks done: N/A
 ## Base idea & points
 
 | Chapter number | Chapter Name | Content Ideas | Comments |
-|:--------------:|:----------------|:--------------|:--------:|
-| Chapter 1| 
+|:--------------:|:----------------|:--------------|:---------|
+| CH 1 |  Introduction | - Talk about minecraft as a game.<br> - Gives a small insight of my experience with server manangement.<br> - Talk about the fun in managing servers.<br> - Gives a small look into what the book offers. | - Need to keep it simple and short |
+| CH 2 | Pre-requisites | - Talk about understanding Java.<br> - Basic knowledge of how minecraft works.<br> - Basic knowledge of linux. | - Do not go in depth<br> - put reference to other books for java & linux<br> - Link to tips and tricks chapter |
+| CH 3 | Understanding Server Software | - Talk about Bukkit, Spigot, Paper, Sponge, Velocity, Purpur.<br> - Differentiate between vanilla minecraft and Forge/Fabric minecraft | - Emphasis on usage of server.jar renaming best practice.<br> - Go in-depth about the differences of the server software.
