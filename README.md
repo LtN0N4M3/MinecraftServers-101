@@ -85,6 +85,26 @@ Tasks done: N/A
 | CH 13 | Server Administration | - Basic team structure.<br> - Community management.<br> - Teamm communication & workflows.<br> - Need of SOPs. | - Take content from Vizzi, YouTube and other sites<br> - Place admin polcies as optional content | N/A | <ul><li>[ ] Done</li><li>[ ] Pending</li></ul> |
 | CH 14 | Best Practices | - Best SOPs.<br> - Comparison of practices (Bad,Good,Best)<br> - Case study on existing networks.<br> - Working principles. | - Make it look like a Manual<br> - Come up with a nice format for Each SOP, Best practices, etc. | N/A | <ul><li>[ ] Done</li><li>[ ] Pending</li></ul> |
 
-### Need to type from here...
+<br>
+
+### How the progress will be tracked:
+Chapter content will have versions that will be constantly tracked using the double level versioning, for example (version x.y) where "x" marks major changes and "y" marks minor changes.
+
+Whoever is working on the chapter, can mark wether the latest update and reading is done by marking the Done or Pending check boxes. 
+
+<br>
+<br>
+
+Book version: 0.1 (update based on releases.)
 - - -
 
+### Extra idea space:
+
+1. Use ***Isometric Illustrations*** to spice up the pages.
+2. Research on **Mac OS** method of running paper.
+
+
+- - -
+
+
+###### 10/7/22 ~ Adithya
