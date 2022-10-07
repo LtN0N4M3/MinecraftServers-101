@@ -65,3 +65,9 @@ Tasks done: N/A
 
 
 ---
+
+## Base idea & points
+
+| Chapter number | Chapter Name | Content Ideas | Comments |
+|:--------------:|:----------------|:--------------|:--------:|
+| Chapter 1| 
